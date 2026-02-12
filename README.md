@@ -20,10 +20,12 @@ Tuesday:
 # Notes
 - [Godot 2D & 3D Essentials](notes/godot%20intro.pdf)
 - [GDScript Comprehensive](notes/gdscript.pdf)
-- [Steering Behaviors ]
+- [Steering Behaviors]()
 
 # Essential Reading
-- https://www.roadtovr.com/the-need-for-procedural-animation-in-virtual-reality-ocean-rift-developer/?amp
+- https://www.red3d.com/cwr/steer/ - The OG
+- https://www.red3d.com/cwr/boids/ - Boids
+- https://www.roadtovr.com/the-need-for-procedural-animation-in-virtual-reality-ocean-rift-developer/?amp - Procedural Animation in XR
 - 
 
 # Resources
