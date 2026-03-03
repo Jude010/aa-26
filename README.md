@@ -39,7 +39,6 @@ Tuesday:
 
 # Week 6
 - Pursue/Offset Pursue
-- Wander
 - [Hands](github.com/skooter500/hands)
 
 # Week 5
