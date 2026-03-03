@@ -37,6 +37,19 @@ Tuesday:
 - [5 Games Made in Godot to inspire you each week](https://www.youtube.com/@stayathomedev) 
 - [Game dev news channel](https://www.youtube.com/@gamefromscratch)
 
+# Week 6
+- Pursue/Offset Pursue
+- Wander
+- [Hands](github.com/skooter500/hands)
+
+# Week 5
+- SOLID Principles
+- Refactoring
+- WTPRS Algorithm
+
+# Week 4
+- LLM's - NobodyWho
+
 # Week 3
 - Banking 
 - Path following
