@@ -37,6 +37,17 @@ Tuesday:
 - [5 Games Made in Godot to inspire you each week](https://www.youtube.com/@stayathomedev) 
 - [Game dev news channel](https://www.youtube.com/@gamefromscratch)
 
+# Week 11 - Synchronising beats over a network, Flocking
+- [Network Sync](NETWORK_SYNC.md)
+
+# Week 10
+
+# Week 9
+
+# Week 8
+
+# Week 7
+
 # Week 6
 - Pursue/Offset Pursue
 - [Hands](github.com/skooter500/hands)
